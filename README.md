@@ -11,27 +11,37 @@
 * reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 
 # 분류 
+
 **Seminar $ Conference** 
 * [20xx.x.x] 
-
+* [20xx.x.x] 
+* [20xx.x.x] 
 
 **Python**
-* [20xx.x.x]
-
+* 
+* 
+* 
 
 **DeepLearning**
-* [20xx.x.x]
+*
+* 
+* 
 
 **Crawling**
-* [20xx.x.x]
-
+* 
+* 
+* 
 
 **Django**
-* [20xx.x.x]
+* 
+* 
+* 
+
 
 **Algorism**
-* [20xx.x.x] 
-[텍스트][참조명]
-[참조명] : 링크 주소
-[알고리즘강좌][link]
-[link] : https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C
+* 0-0. [알고리즘 강좌](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C)
+* 1-1. [알고리즘의 분석]()
+
+
+**Github
+* [Markdown 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
