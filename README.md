@@ -30,4 +30,8 @@
 * [20xx.x.x]
 
 **Algorism**
-* [20xx.x.x]
+* [20xx.x.x] 
+[텍스트][참조명]
+[참조명] : 링크 주소
+[알고리즘강좌][link]
+[link] : https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C
